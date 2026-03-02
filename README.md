@@ -414,7 +414,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you use this code or paper in your research, please cite:
 
 ```bibtex
-@article{ta2026speaker,
+@article{ehancing_speaker2026,
   title={Enhancing Speaker Identification with Hybrid Deep Learning Models and Multi-Feature Fusion},
   author={Ta, Khoi Nguyen and Van, Quoc Hoan Doan and Nguyen, Van Hon and Nguyen, Luong Vuong},
   journal={Department of Artificial Intelligence, FPT University},
@@ -436,8 +436,3 @@ For questions, collaborations, or issues, please contact:
 
 - **Email:** vuongnl3@fe.edu.vn
 - **Institution:** Department of Artificial Intelligence, FPT University, Danang, 550000, Vietnam
-
----
-
-**⭐ Star this repository if you find it helpful!**
-```
